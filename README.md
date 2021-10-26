@@ -10,7 +10,7 @@ My area of expertise is Full-Stack Web Application Development. I have been in t
 
 <div class="col-lg-4 col-md-4 col-sm-6">
            				<div class="imgbordered">
-                                                                  <i style="color:red; width: 300px;">Hello</i>
+                                                                  <i style="font-size: 30px;">Hello</i>
            				</div>
            			 </div>
 
