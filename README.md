@@ -27,21 +27,24 @@ My area of expertise is Full-Stack Web Application Development. I have been in t
   <img src="https://dt2sdf0db8zob.cloudfront.net/wp-content/uploads/2018/04/000webhost-logo-alt.png" alt="skillImg" width="50px" />&nbsp;&nbsp;
 </span>
 
+<br /><br />
 
+<span>
 - 🔭 I’m currently working on Fiverr 
 - 🌱 I’m currently learning JavaScript 
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about Web Development 
 - 📫 How to reach me: https://rafix.netlify.app 
 - ⚡ Fun fact: fell in love with coding 
+   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MHRafix&show_icons=true&count_private=true) 
 
+</span>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MHRafix) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mh-rafix-42772a21b/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/profile.php?id=100069940274273)  
 
 
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=MHRafix)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MHRafix)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MHRafix&show_icons=true&count_private=true) 
-
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=MHRafix)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MHRafix)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MHRafix)  
 
 ![GitHub metrics](https://metrics.lecoq.io/MHRafix)  
