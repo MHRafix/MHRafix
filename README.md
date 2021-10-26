@@ -10,7 +10,7 @@ My area of expertise is Full-Stack Web Application Development. I have been in t
 
 <div class="col-lg-4 col-md-4 col-sm-6">
            				<div class="imgbordered">
-           				<img class="img-fluid" src="assets/images/identity/aboutImage.png" alt="abotuImage">
+                                                                  <i style="color:red">Hello</i>
            				</div>
            			 </div>
 
