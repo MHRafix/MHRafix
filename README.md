@@ -36,7 +36,12 @@ My area of expertise is Full-Stack Web Application Development. I have been in t
 - 📫 How to reach me: https://rafix.netlify.app
 - ⚡ Fun fact: fell in love with coding
 
+<br /><br />
 
+<h2> ☎ Contact With Me : </h2>
+📶 01611859722
+📧 webdevrafix@gmail.com
+🩸 Dhaka, Bangladesh || Lakshmipur Bangladeh
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MHRafix) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mh-rafix-42772a21b/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/profile.php?id=100069940274273)  
 
