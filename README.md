@@ -1,11 +1,24 @@
 ![Junior Web Developer](https://scontent.fdac13-1.fna.fbcdn.net/v/t1.6435-9/210089687_107912284883447_4930012081451353393_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=piQM9bcHsUAAX_cmNIf&_nc_ht=scontent.fdac13-1.fna&oh=b1a9986e18a17a750576e703b93a14a7&oe=619E1C30)
 
-### Hi there 👋, I am MH Rafiz
+# Hi there 👋, 
+## I am MH Rafiz
 #### Junior Web Developer
 
 My area of expertise is Full-Stack Web Application Development. I have been in this field for one year and have a great deal of knowledge and skills. I have developed websites using PHP, WordPress, as well as MERN stack coding. As a PHP, WordPress and MERN expert, I've already completed over fifty projects for local clients and practice purposes. I live by the motto "Today Learner, Tomorrow Leader" and try to stay abreast of new technology, new lessons, and new languages every single day. I can make any website related to my skills. If you want to make a website, whether it be for your business or for your own needs. If you give me your project, you can be sure that I will deliver high-quality work. Check out my portfolio to build trust. You can find me on Fiverr and Freelancer, as well as contact me directly via social media and email. Thanks!
 
-Skills: HTML / CSS / Bootstrap / JavaScript / React / Node.js / Express.js / PHP / MongoDB / MySQL
+## My Skills :
+
+### Front-End Development
+✔ HTML ✔ CSS ✔ Bootstrap ✔ JavaScript ✔ React.js
+
+### Back-End Development
+✔ Node.js ✔ Express.js ✔ PHP
+
+### DataBase
+✔ MongoDB ✔ MySQL
+
+### CMS
+✔ WordPress (Basic)
 
 - 🔭 I’m currently working on Fiverr 
 - 🌱 I’m currently learning JavaScript 
