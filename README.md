@@ -2,4 +2,12 @@
 <h1>Hi, I am Mehedi Hasan Rafiz 👋</h1>
 <h3>🟢 Web Developer &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  🟢 Programmer</h3>
 
-<span>hefd</span> <span>fdfdfd</span>
+<span>
+My area of expertise is Full-Stack Web Application Development. I have been in this field for one year and have a great deal of knowledge and skills. I have developed websites using PHP, WordPress, as well as MERN stack coding. As a PHP, WordPress and MERN expert, I've already completed over fifty projects for local clients and practice purposes. I live by the motto "Today Learner, Tomorrow Leader" and try to stay abreast of new technology, new lessons, and new languages every single day. I can make any website related to my skills. If you want to make a website, whether it be for your business or for your own needs. If you give me your project, you can be sure that I will deliver high-quality work. Check out my portfolio to build trust. You can find me on Fiverr and Freelancer, as well as contact me directly via social media and email. Thanks!
+</span>
+
+<div>
+  <h2>My Skills : </h2>
+   <h3>Front-End Development :- </h3>
+  <img src="https://cdn-icons-png.flaticon.com/512/331/331395.png" alt="skillImg" width="50px" /> <img src="" alt="skillImg" width="50px" /> <img src="" alt="skillImg" width="50px" /> <img src="" alt="skillImg" width="50px" />
+</div>
