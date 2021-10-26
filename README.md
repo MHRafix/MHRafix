@@ -39,11 +39,12 @@ My area of expertise is Full-Stack Web Application Development. I have been in t
 <br /><br />
 
 <h2> ☎ Contact With Me : </h2>
-📶 01611859722
-📧 webdevrafix@gmail.com
-🩸 Dhaka, Bangladesh || Lakshmipur Bangladeh
+📶 01611859722 <br />
+📧 webdevrafix@gmail.com <br />
+<img src="https://t4.ftcdn.net/jpg/02/98/28/57/240_F_298285715_ct4qtZOJH119A39TdMrbkLsfziVCX1Rz.jpg" width="10px" alt="locationIcon"/> Dhaka, Bangladesh || Lakshmipur Bangladeh <br />
+🌐 https://rafix.netlify.app <br />
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MHRafix) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mh-rafix-42772a21b/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/profile.php?id=100069940274273)  
+[<img src='https://cdn-icons-png.flaticon.com/512/733/733609.png' alt='github' height='40'>](https://github.com/MHRafix) [<img src='https://cdn-icons-png.flaticon.com/128/174/174857.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/mh-rafix-42772a21b/)  [<img src='https://cdn-icons-png.flaticon.com/512/145/145802.png' alt='facebook' height='40'>](https://www.facebook.com/profile.php?id=100069940274273)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MHRafix) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MHRafix)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MHRafix&show_icons=true&count_private=true)
