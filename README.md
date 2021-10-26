@@ -44,7 +44,6 @@ My area of expertise is Full-Stack Web Application Development. I have been in t
  🌐 https://rafix.netlify.app  <br /><br />
  🩸 Dhaka, Bangladesh || Lakshmipur Bangladeh <br />
  
-  <br />
 [<img src='https://cdn-icons-png.flaticon.com/512/733/733609.png' alt='github' height='40'>](https://github.com/MHRafix) &nbsp;&nbsp; [<img src='https://cdn-icons-png.flaticon.com/128/174/174857.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/mh-rafix-42772a21b//)  &nbsp;&nbsp; [<img src='https://cdn-icons-png.flaticon.com/512/145/145802.png' alt='facebook' height='40'>](https://www.facebook.com/profile.php?id=100069940274273) 
 </h3>
 
