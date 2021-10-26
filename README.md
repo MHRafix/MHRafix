@@ -29,12 +29,12 @@ My area of expertise is Full-Stack Web Application Development. I have been in t
 
 <br /><br />
 
-- 🔭 I’m currently working on Fiverr
-- 🌱 I’m currently learning JavaScript
-- 👯 I’m looking to collaborate on Github
-- 💬 Ask me about Web Development
-- 📫 How to reach me: https://rafix.netlify.app
-- ⚡ Fun fact: fell in love with coding
+🟠 🔭 I’m currently working on Fiverr
+🟢 🌱 I’m currently learning JavaScript
+🟡 👯 I’m looking to collaborate on Github
+🟣 💬 Ask me about Web Development
+🔵 📫 How to reach me: https://rafix.netlify.app
+🔴 ⚡ Fun fact: fell in love with coding
 
 <br /><br />
 
