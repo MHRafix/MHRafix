@@ -8,7 +8,6 @@ My area of expertise is Full-Stack Web Application Development. I have been in t
 
 <span>
   <h2>My Skills : </h2>
-   <h3>Front-End Development :- </h3>
   <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_640.png" alt="skillImg" width="50px" /> 
   <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" alt="skillImg" width="50px" />
   <img src="https://avatars.githubusercontent.com/u/2918581?s=280&v=4" alt="skillImg" width="50px" />
@@ -18,7 +17,6 @@ My area of expertise is Full-Stack Web Application Development. I have been in t
 
 <span>
   <h2>My Skills : </h2>
-   <h3>Front-End Development :- </h3>
   <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_640.png" alt="skillImg" width="50px" /> 
   <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" alt="skillImg" width="50px" />
   <img src="https://avatars.githubusercontent.com/u/2918581?s=280&v=4" alt="skillImg" width="50px" />
