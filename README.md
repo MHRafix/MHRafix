@@ -30,15 +30,13 @@ My area of expertise is Full-Stack Web Application Development. I have been in t
 <br /><br />
 
 <span>
-- 🔭 I’m currently working on Fiverr 
-- 🌱 I’m currently learning JavaScript 
-- 👯 I’m looking to collaborate on Github 
-- 💬 Ask me about Web Development 
-- 📫 How to reach me: https://rafix.netlify.app 
-- ⚡ Fun fact: fell in love with coding 
-   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MHRafix&show_icons=true&count_private=true) 
-
-</span>
+- 🔭 I’m currently working on Fiverr
+- 🌱 I’m currently learning JavaScript
+- 👯 I’m looking to collaborate on Github
+- 💬 Ask me about Web Development
+- 📫 How to reach me: https://rafix.netlify.app
+- ⚡ Fun fact: fell in love with coding
+</span> ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MHRafix&show_icons=true&count_private=true) 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MHRafix) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mh-rafix-42772a21b/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/profile.php?id=100069940274273)  
 
