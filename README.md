@@ -9,7 +9,7 @@ My area of expertise is Full-Stack Web Application Development. I have been in t
 ## My Skills :
 
 ### Front-End Development
-<img src="https://cdn-icons-png.flaticon.com/512/331/331395.png" alt="html" width="300" />
+<img src="https://cdn-icons-png.flaticon.com/512/331/331395.png" alt="html" width="30" />
 ✅ CSS ✅ Bootstrap ✅ JavaScript ✅ React.js
 
 ### Back-End Development
