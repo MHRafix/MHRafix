@@ -8,6 +8,12 @@ My area of expertise is Full-Stack Web Application Development. I have been in t
 
 ## My Skills :
 
+<div class="col-lg-4 col-md-4 col-sm-6">
+           				<div class="imgbordered">
+           				<img class="img-fluid" src="assets/images/identity/aboutImage.png" alt="abotuImage">
+           				</div>
+           			 </div>
+
 ### Front-End Development
 <img src="https://cdn-icons-png.flaticon.com/512/331/331395.png" alt="html" width="30" />
 ✅ CSS ✅ Bootstrap ✅ JavaScript ✅ React.js
