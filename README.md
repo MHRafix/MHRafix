@@ -17,6 +17,6 @@ My area of expertise is Full-Stack Web Application Development. I have been in t
   <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="skillImg" width="50px" /> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/2560px-Webysther_20160423_-_Elephpant.svg.png" alt="skillImg" width="50px" />
   <img src="https://cdn-icons-png.flaticon.com/128/919/919836.png" alt="skillImg" width="50px" />
-  <img src="https://user-images.githubusercontent.com/10302035/71502974-45a0f200-28c7-11ea-9cfa-4add107ab97a.png" alt="skillImg" width="50px" />
+  <img src="https://user-images.githubusercontent.com/10302035/71502974-45a0f200-28c7-11ea-9cfa-4add107ab97a.png" alt="skillImg" width="80px" />
   <img src="https://cdn-icons-png.flaticon.com/512/919/919851.png" alt="skillImg" width="50px" />
 </span>
