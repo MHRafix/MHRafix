@@ -9,16 +9,16 @@ My area of expertise is Full-Stack Web Application Development. I have been in t
 ## My Skills :
 
 ### Front-End Development
-✔ HTML ✔ CSS ✔ Bootstrap ✔ JavaScript ✔ React.js
+✅ HTML ✅ CSS ✅ Bootstrap ✅ JavaScript ✅ React.js
 
 ### Back-End Development
-✔ Node.js ✔ Express.js ✔ PHP
+✅ Node.js ✅ Express.js ✅ PHP
 
 ### DataBase
-✔ MongoDB ✔ MySQL
+✅ MongoDB ✅ MySQL
 
 ### CMS
-✔ WordPress (Basic)
+✅ WordPress (Basic)
 
 - 🔭 I’m currently working on Fiverr 
 - 🌱 I’m currently learning JavaScript 
