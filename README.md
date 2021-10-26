@@ -1,52 +1,464 @@
-![Junior Web Developer](https://scontent.fdac13-1.fna.fbcdn.net/v/t1.6435-9/210089687_107912284883447_4930012081451353393_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=piQM9bcHsUAAX_cmNIf&_nc_ht=scontent.fdac13-1.fna&oh=b1a9986e18a17a750576e703b93a14a7&oe=619E1C30)
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>MH Rafix</title>
+	<!-- BOOTSTRAP CDN INCLUDE HERE -->
+	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
+	<!-- TYPED ANIMATION JS CDN LINK UP HERE -->
+	<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.11/typed.min.js"></script>
+  <!-- FONTAWESOME CDN INCLUDE HERE -->
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    <!-- CUSTOM CSS LINK UP HERE  -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/waypoints/4.0.1/jquery.waypoints.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Counter-Up/1.0.0/jquery.counterup.min.js"></script>
+    <link rel="stylesheet" href="assets/css/index.css">
+</head>
+<body>
+	
+        
+ 
+ <!-- HOME ECTION MARKUP STARTS FROM HERE -->
+  <section id="homeSection"> 
+    
 
-# Hi there 👋, 
-## I am MH Rafiz
-#### Junior Web Developer
+    <div class="socialIcons">
+       <div class="share">
+             <a type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasRight" aria-controls="offcanvasRight" class="fas fa-bars" id="menu-bars"></a>
 
-My area of expertise is Full-Stack Web Application Development. I have been in this field for one year and have a great deal of knowledge and skills. I have developed websites using PHP, WordPress, as well as MERN stack coding. As a PHP, WordPress and MERN expert, I've already completed over fifty projects for local clients and practice purposes. I live by the motto "Today Learner, Tomorrow Leader" and try to stay abreast of new technology, new lessons, and new languages every single day. I can make any website related to my skills. If you want to make a website, whether it be for your business or for your own needs. If you give me your project, you can be sure that I will deliver high-quality work. Check out my portfolio to build trust. You can find me on Fiverr and Freelancer, as well as contact me directly via social media and email. Thanks!
+                <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasRight" aria-labelledby="offcanvasRightLabel">
+                 <div class="offcanvas-header">
+                  <h2 id="offcanvasRightLabel">MH Rafix</h2>
+                  <button type="button" class="btnCross fas fa-times" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+                    </div>
+                <div class="offcanvas-body">
+                     Hello Navbar here
+                 </div>
+                </div>
+            <a href="https://www.facebook.com/profile.php?id=100069940274273" target="blank" class="fab fa-facebook-f"></a>
+            <a href="https://www.linkedin.com/in/mh-rafix-42772a21b/" target="blank" class="fab fa-linkedin"></a>
+            <div id="whatsAppModal" class="whatsAppModalStyle">
+                
+                <div class="cross text-right">
+                    <i class="fas fa-times" id="WhatsAppInfoHide"></i>
+                </div>
+                <i class="fab fa-whatsapp text-center" style="color: var(--text-color);font-size: 35px;"></i>
+                <h4 class="whatsAppDet">Say Hi On Whatsapp</h4>
+                <span class="phNo">+8801611859722</span>
+                <a href="https://www.whatsapp.com" target="blank" class="hireBtn2 fas fa-phone-volume"></a>
 
-## My Skills :
+            </div>
+            <span id="WhatsAppInfo" class="fab fa-whatsapp"></span>
+            <a href="https://www.github.com/mhrafix" target="blank" class="fab fa-github"></a>
 
-<div class="col-lg-4 col-md-4 col-sm-6">
+            <div id="skypeModal" class="skypeModalStyle">
+                
+              <div class="cross text-right">
+                  <i class="fas fa-times" id="skypeInfoHide"></i>
+              </div>
+              <i class="fab fa-skype text-center" style="color: var(--text-color);font-size: 35px;"></i>
+              <h4 class="whatsAppDet">Let's Chat On Skype</h4>
+              <span class="phNo">+8801611859722</span>
+              <a href="https://www.skype.com" target="blank" class="hireBtn2 fas fa-phone-volume"></a>
+
+          </div>
+          <span id="skypeAppInfo" class="fab fa-skype"></span>
+            <a href="https://www.facebook.com" target="blank" class="fab fa-twitter"></a>
+        </div>
+    </div>
+
+                
+          
+        <div class="container">
+          <div class="detail">
+           <div class="indentity">
+               <h1>Hello, <span id="title">I'm MH Rafix</span></h1>
+               <h3><span class="titlePost"></span></h3>
+                <p class="themePera mx-auto" id="themePera">Trying to find a web developer,,,? Look no further, I'm your guy. I'm a professional Full-Stack Web Application Developer.</p><br>
+                <a href="#contactSection" class="hireBtn">Hire Me</a>
+             </div>
+             </div>
+           </div>
+         </section>
+<!-- HOME SECTION MARKUP ENDS TO HERE -->
+
+
+
+             
+
+                 <!-- ABOUT ME SECTION MARKUP SATRTS FROM HERE -->
+           <section class="aboutSection">
+           	<h1 class="sectionTitle"><span id="Sectitle">About</span> Me</h1>
+           	 <div class="container">
+           		 <div class="row justify-content-around">
+           			<div class="col-lg-4 col-md-4 col-sm-6">
            				<div class="imgbordered">
-                                                                  <i style="font-size: 30px;">Hello</i>
+           				<img class="img-fluid" src="assets/images/identity/aboutImage.png" alt="abotuImage">
            				</div>
            			 </div>
+                     <div class="col-lg-7 col-md-7 col-xs-8">
+           				<h2 class="peopleName">My Name Is <span id="title">MH Rafix</span></h2>
+           				<p class="themePera mb-5">
+                            My area of expertise is Full-Stack Web Application Development. I have been in this field for one year and have a great deal of knowledge and skills. I have developed websites using PHP, WordPress, as well as MERN stack coding. As a PHP, WordPress and MERN expert, I've already completed over fifty projects for local clients and practice purposes. I live by the motto "Today Learner, Tomorrow Leader" and try to stay abreast of new technology, new lessons, and new languages every single day. I can make any website related to my skills. If you want to make a website, whether it be for your business or for your own needs. If you give me your project, you can be sure that I will deliver high-quality work. Check out my portfolio to build trust. You can find me on Fiverr and Freelancer, as well as contact me directly via social media and email. Thanks!
+                        </p>
+           				<a href="https://fiverr.com/mhrafix" target="blank" class="hireBtn5 mx-2">Go Fiverr</a>
+           				<a href="https://goolgedrive.com/mhrafix" target="blank" class="hireBtn5 mx-2">Download CV</a>
+           				<a href="https://freelancer.com/mhrafix" target="blank" class="hireBtn5 mx-2">Freelancer.com</a>
+           			</div>
+           		</div>
 
-### Front-End Development
-<img src="https://cdn-icons-png.flaticon.com/512/331/331395.png" alt="html" width="30" />
-✅ CSS ✅ Bootstrap ✅ JavaScript ✅ React.js
+              <div class="row mt-5 justify-content-around">
+                 <div class="col-lg-5 col-md-5 col-xs-8">
+                    <div class="skill-type">front-end:</div>
+                      <div class="skill-item">
+                        <h2 class="skill-name">html</h2>
+                          <div class="skill-bar">
+                            <div class="prog" style="width: calc(95% - 14px);">
+                                <span class="percentage">95%</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="skill-item">
+                       <h2 class="skill-name">css</h2>
+                         <div class="skill-bar">
+                            <div class="prog" style="width: calc(80% - 14px);">
+                                <span class="percentage">80%</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="skill-item">
+                        <h2 class="skill-name">bootstrap</h2>
+                          <div class="skill-bar">
+                             <div class="prog" style="width: calc(85% - 14px);">
+                                <span class="percentage">85%</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="skill-item">
+                        <h2 class="skill-name">sass</h2>
+                           <div class="skill-bar">
+                             <div class="prog" style="width: calc(65% - 14px);">
+                                <span class="percentage">65%</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="skill-item">
+                        <h2 class="skill-name">javascript</h2>
+                          <div class="skill-bar">
+                            <div class="prog" style="width: calc(70% - 14px);">
+                                <span class="percentage">70%</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-5 col-md-5 col-xs-8">
+                    <div class="skill-type">back-end:</div>
+                      <div class="skill-item">
+                        <h2 class="skill-name">php</h2>
+                          <div class="skill-bar">
+                            <div class="prog" style="width: calc(60% - 14px);">
+                                <span class="percentage">60%</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="skill-item">
+                        <h2 class="skill-name">mySQL & mongoDB</h2>
+                          <div class="skill-bar">
+                            <div class="prog" style="width: calc(90% - 14px);">
+                                <span class="percentage">90%</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="skill-item">
+                        <h2 class="skill-name">wordpress</h2>
+                          <div class="skill-bar">
+                            <div class="prog" style="width: calc(70% - 14px);">
+                                <span class="percentage">70%</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="skill-item">
+                        <h2 class="skill-name">node.js</h2>
+                          <div class="skill-bar">
+                            <div class="prog" style="width: calc(72% - 14px);">
+                                <span class="percentage">72%</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="skill-item">
+                        <h2 class="skill-name">react.js</h2>
+                        <div class="skill-bar">
+                            <div class="prog" style="width: calc(50% - 14px);">
+                                <span class="percentage">50%</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+              </div>
+           	</div>
+           </section>
+<!-- ABOUT ME SECTION MARKUP ENDS TO HERE -->
 
-### Back-End Development
-✅ Node.js ✅ Express.js ✅ PHP
+                     
+    <!-- MY SUCCESS RATE STARTS FROM HERE  -->
+    <main>
+      <div class="successArea">
+        <div class="container">
+          <div class="row" style="padding: 10% 0;">
+            <div class="col-lg-4 col-md-6 col-sm-12 text-center">
+              <span class="successIcon"><i class="fas fa-check-circle"></i></span>
+             <span class="successRate">71</span><span class="plusSign">+</span>
+              <h2 class="subjectName">Project Done</h2>
+            </div>
+            <!-- <div class="col-lg-3 col-md-6 col-sm-10 text-center">
+              <span class="successIcon"><i class="fas fa-medal"></i></span>
+              <span id="countRate" class="successRate">7</span>
+              <h2 class="subjectName">Award Win</h2>
+            </div> -->
+            <div class="col-lg-4 col-md-6 col-sm-12 text-center">
+              <span class="successIcon"><i class="fas fa-smile"></i></span>
+           <span class="successRate">67</span><span class="plusSign">+</span>
+              <h2 class="subjectName">Happy Clients</h2>
+            </div>
+            <div class="col-lg-4 col-md-6 col-sm-12 text-center">
+              <span class="successIcon"><i class="fas fa-star"></i></span>
+             <span class="successRate">59</span><span class="plusSign">+</span>
+              <h2 class="subjectName">Positive Ratting</h2>
+            </div>
+          </div>
+        </div>
+      </div>
+    </main>
+     <!-- MY SUCCESS RATE ENDS TO HERE  -->
 
-### DataBase
-✅ MongoDB ✅ MySQL
+                       <!-- SERVICES SECTION MARKUP STARTS FROM HERE -->
+ <section class="services aboutSection" id="services">
+   <h1 class="sectionTitle mb-5">My<span id="Sectitle"> Services</span></h1><br>
+    <div class="container">
+      <div class="box-container">
+        <div class="box">
+            <i class="fas fa-paint-brush"></i>
+            <h3>web design</h3>
+            <p class="w-100">Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem quas delectus, laboriosam nulla dolore in.</p>
+        </div>
 
-### CMS
-✅ WordPress (Basic)
+        <div class="box">
+            <i class="fas fa-code"></i>
+            <h3>web development</h3>
+            <p class="w-100">Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem quas delectus, laboriosam nulla dolore in.</p>
+        </div>
 
-- 🔭 I’m currently working on Fiverr 
-- 🌱 I’m currently learning JavaScript 
-- 👯 I’m looking to collaborate on Github 
-- 💬 Ask me about Web development 
+        <div class="box">
+            <i class="fas fa-mobile"></i>
+            <h3>responsive design</h3>
+            <p class="w-100">Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem quas delectus, laboriosam nulla dolore in.</p>
+        </div>
+
+        <div class="box">
+            <i class="fas fa-bullhorn"></i>
+            <h3>MERN stack development</h3>
+            <p class="w-100">Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem quas delectus, laboriosam nulla dolore in.</p>
+        </div>
+
+        <div class="box">
+            <i class="fas fa-search-dollar"></i>
+            <h3>PHP & laravel dev.</h3>
+            <p class="w-100">Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem quas delectus, laboriosam nulla dolore in.</p>
+        </div>
+
+        <div class="box">
+            <i class="fab fa-wordpress"></i>
+            <h3>wordpress</h3>
+            <p class="w-100">Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem quas delectus, laboriosam nulla dolore in.</p>
+        </div>
+     </div>
+  </div>
+</section>
+ <!-- SERVICES SECTION MARKUP ENDS TO HERE -->
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MHRafix)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/profile.php?id=100069940274273)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://rafix.netlify.app/)  
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+<!-- PORTFOLIO SECTION DESIGN STARTS FROM HERE -->
+<section class="portfolio aboutSection" id="portfolio">
+ <h1 class="sectionTitle mb-5">My<span id="Sectitle"> Portfolio</span></h1>
+                   <div class="container">
+                     <div class="porfolioControlBtn text-center">
+                     <span id="webDevelopmentBtn" class="activeClass">Web Development</span>
+                    <span id="webDesignBtn" class="hireBtn">Web Design</span>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MHRafix)](https://github.com/ryo-ma/github-profile-trophy)
+                     </div>
+                   </div><br><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MHRafix)](https://github.com/anuraghazra/github-readme-stats)
+  <div class="container">
+    <div id="webDesignPortfolio" class="box-container" style="display: none;">
+      <div class="box">
+        <img src="assets/images/portfolio/p1.png" alt="">
+          <div class="content">
+            <br>
+            <br>
+            <h3 id="projectTitle1">Project 01</h3><br>
+             <!-- <span id="displayPorfolioModal1" class="hireBtn" style="margin-top: -110px;">Live </span> -->
+             <a href="https://assignment-02.netlify.app/" class="hireBtn ml-5" target="blank" style="margin-right: 15px;">Live <i class="fas fa-eye px-2"></i></a>
+            <a href="https://github.com/MHRafix/assignments-02" class="hireBtn" target="blank">Code <i class="fas fa-code"></i></a>
+            </div>
+        </div>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MHRafix&show_icons=true&count_private=true)  
+        <div class="box">
+         <img src="assets/images/portfolio/p2.png" alt="">
+           <div class="content">
+            <br>
+            <br>
+              <h3 id="projectTitle2">Project 02</h3>
+              <br>
+             <a href="https://damoportfolio.netlify.app/" class="hireBtn ml-5" target="blank" style="margin-right: 15px;">Live <i class="fas fa-eye px-2"></i></a>
+            <a href="https://github.com/MHRafix/demo_portfolio" class="hireBtn" target="blank">Code <i class="fas fa-code"></i></a>
+            </div>
+        </div>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MHRafix)  
+        <div class="box">
+          <img src="assets/images/portfolio/p3.png" alt="">
+            <div class="content">
+                <br><br>
+                <h3 id="projectTitle3">Project 03</h3>
+                <br>
+             <a href="https://mhrafix.github.io/Mehedi-Hasan-Rafiz/" class="hireBtn ml-5" target="blank" style="margin-right: 15px;">Live <i class="fas fa-eye px-2"></i></a>
+            <a href="https://github.com/MHRafix/Mehedi-Hasan-Rafiz
+" class="hireBtn" target="blank">Code <i class="fas fa-code"></i></a>
+            </div>
+        </div>
 
-![GitHub metrics](https://metrics.lecoq.io/MHRafix)  
+        <div class="box">
+          <img src="assets/images/portfolio/p4.png" alt="">
+            <div class="content">
+                <br><br>
+                <h3 id="projectTitle4">Project 04</h3>
+                <br>
+             <a href="https://rafiz.netlify.app/" class="hireBtn ml-5" target="blank" style="margin-right: 15px;">Live <i class="fas fa-eye px-2"></i></a>
+            <a href="https://github.com/MHRafix/psdToHtml/tree/main/silon" class="hireBtn" target="blank">Code <i class="fas fa-code"></i></a>
+            </div>
+        </div>
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=MHRafix)  
+        <div class="box">
+            <img src="assets/images/portfolio/p5.png" alt="">
+            <div class="content">
+                <br><br>
+                <h3 id="projectTitle5">Project 05</h3>
+                <br>
+             <a href="https://winterlandingpage.netlify.app/" class="hireBtn ml-5" target="blank" style="margin-right: 15px;">Live <i class="fas fa-eye px-2"></i></a>
+            <a href="#" class="hireBtn" target="blank">Code <i class="fas fa-code"></i></a>
+            </div>
+        </div>
 
-![Profile views](https://gpvc.arturio.dev/MHRafix)  
+        <div class="box">
+            <img src="assets/images/portfolio/p6.png" alt="">
+              <div class="content">
+                <br><br>
+                <h3 id="projectTitle6">Project 06</h3>
+                <br>
+             <a href="https://rafiz3.netlify.app/" class="hireBtn ml-5" target="blank" style="margin-right: 15px;">Live <i class="fas fa-eye px-2"></i></a>
+            <a href="https://github.com/MHRafix/psdToHtml/tree/main/nekmit-template
+" class="hireBtn" target="blank">Code <i class="fas fa-code"></i></a>
+
+        
+            </div>
+        </div>
+     </div>
+
+     <div id="webDevPortfolio" class="box-container">
+       <!-- <h1>Web Dev</h1> -->
+
+        <div class="box">
+         <img src="assets/images/webDev/dev1.png" alt="">
+           <div class="content">
+            <br>
+            <br>
+              <h3 id="projectTitle2">Project 01</h3>
+              <h3 id="projectTitle2">PHP Project</h3>
+              <br>
+             <a href="https://foodvalley01.000webhostapp.com/" class="hireBtn ml-5" target="blank" style="margin-right: 15px;">Live <i class="fas fa-eye px-2"></i></a>
+            <a href="https://github.com/MHRafix/foodvalley" class="hireBtn" target="blank">Code <i class="fas fa-code"></i></a>
+            </div>
+        </div>
+
+        <div class="box">
+         <img src="assets/images/webDev/dev2.png" alt="">
+           <div class="content">
+            <br>
+            <br>
+              <h3 id="projectTitle2">Project 02</h3>
+              <h3 id="projectTitle2">WordPress Project</h3>
+              <br>
+             <a href="#" class="hireBtn ml-5" target="blank" style="margin-right: 15px;">Live <i class="fas fa-eye px-2"></i></a>
+            <a href="https://github.com/MHRafix/flatsome" class="hireBtn" target="blank">Code <i class="fas fa-code"></i></a>
+            </div>
+        </div>        
+
+        <div class="box">
+         <img src="assets/images/webDev/dev3.png" alt="">
+           <div class="content">
+            <br>
+            <br>
+              <h3 id="projectTitle2">Project 03</h3>
+              <h3 id="projectTitle2">React Project</h3>
+              <br>
+             <a href="https://skill-up-c46a1.web.app/" class="hireBtn ml-5" target="blank" style="margin-right: 15px;">Live <i class="fas fa-eye px-2"></i></a>
+            <a href="https://github.com/MHRafix/SKILLUP-REACT-FIREBASE-APP" class="hireBtn" target="blank">Code <i class="fas fa-code"></i></a>
+            </div>
+        </div>
+
+        <div class="box">
+         <img src="assets/images/webDev/dev4.png" alt="">
+           <div class="content">
+            <br>
+            <br>
+              <h3 id="projectTitle2">Project 04</h3>
+              <h3 id="projectTitle2">React Project</h3>
+              <br>
+             <a href="https://medicoz-720df.web.app/" class="hireBtn ml-5" target="blank" style="margin-right: 15px;">Live <i class="fas fa-eye px-2"></i></a>
+            <a href="https://github.com/MHRafix/MEDICOZ-CLINIC-APP-REACT" class="hireBtn" target="blank">Code <i class="fas fa-code"></i></a>
+            </div>
+        </div>    
+        <div class="box">
+         <img src="assets/images/webDev/dev5.png" alt="">
+           <div class="content">
+            <br>
+            <br>
+              <h3 id="projectTitle2">Project 05</h3>
+              <h3 id="projectTitle2">React Project</h3>
+              <br>
+             <a href="https://magoosh.netlify.app" class="hireBtn ml-5" target="blank" style="margin-right: 15px;">Live <i class="fas fa-eye px-2"></i></a>
+            <a href="https://github.com/MHRafix/MAGOOSH-REACT" class="hireBtn" target="blank">Code <i class="fas fa-code"></i></a>
+            </div>
+        </div>
+     </div>
+
+  </div>
+
+</section>
+<!-- PORTFOLIO SECTION DESIGN ENDS TO HERE -->
+
+
+
+                       <!-- OUR TEAM SECTION MARKUP STARTS FROM HERE -->
+
+                       <!-- OUR TEAM SECTION MARKUP ENDS TO HERE -->
+                      
+                    
+
+
+	<!-- BOOTSTRAP JS CDN INCLUDE HERE -->
+	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-U1DAWAznBHeqEIlVSCgzq+c9gqGAJn5c/t99JyeKa9xxaYpSvHU5awsuZVVFIhvj" crossorigin="anonymous"></script>
+	<script src="assets/js/index.js"></script>
+                        <script>
+                      $(document).ready(function(){
+                        $('.successRate').counterUp({
+                          delay: 10,
+                          time: 1500
+                        });
+                      });
+                      </script>
+</body>
+</html>
