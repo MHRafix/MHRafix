@@ -9,8 +9,6 @@ My area of expertise is Full-Stack Web Application Development. I have been in t
 <div>
   <h2>My Skills : </h2>
    <h3>Front-End Development :- </h3>
-  <img src="https://cdn-icons-png.flaticon.com/512/331/331395.png" alt="skillImg" width="50px" /> 
   <img src="https://cdn-icons-png.flaticon.com/128/331/331392.png" alt="skillImg" width="50px" /> 
-  <img src="https://t4.ftcdn.net/jpg/02/23/73/03/240_F_223730334_0l31O1JBvtyw2B8Zkeu95LEqX0Y3PxjG.jpg" alt="skillImg" width="50px" /> 
   <img src="" alt="skillImg" width="50px" />
 </div>
