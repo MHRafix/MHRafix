@@ -3,7 +3,7 @@
 <h3>🟢 Web Developer &nbsp;&nbsp;  🟢 Programmer &nbsp;&nbsp;  🟢 Self-Learner </h3>
 
 <span>
-I am Mehedi Hasan Rafiz, from Dhaka, Bangladesh. I fell in love with programming and I have at least learnt something. I know Javascript, React.js and Node.js. I also know PHP, am familiar with React Native. My fields of interest are building new web technologies and products and also in areas related to deep learning and natural language processing. Whenever possible, I also apply my passion for developing products with Node.js and modern Javascript library and frameworks like React.js. Now I am seeking for a job where I can start my career and get opportunity to extend my skills and learn about new technologies.
+I am Mehedi Hasan Rafiz, from Dhaka, Bangladesh. I fell in love with programming and I have at least learnt something. I know Javascript, React.js and Node.js. I also know PHP, am familiar with React Native. My fields of interest are building new web technologies and products and also in areas related to deep learning and natural language processing. Whenever possible, I also apply my passion for developing products with Node.js and modern Javascript library and frameworks like React.js. Now I am seeking a job where I can start my career and get the opportunity to expand my skills and learn about new technologies.
 </span> <br /> <br />
 
 <h2>My Skills : </h2>
