@@ -3,7 +3,7 @@
 <h3>🟢 Web Developer &nbsp;&nbsp;  🟢 Programmer &nbsp;&nbsp;  🟢 Self-Learner </h3>
 
 <span>
-My area of expertise is Full-Stack Web Application Development. I have been in this field for one year and have a great deal of knowledge and skills. I have developed websites using JavaScript, PHP, and WordPress. As a MERN stack developer I've already completed over fifty projects for local clients and practice purposes. I live by the motto "Today Learner, Tomorrow Leader" and try to stay abreast of new technology, new lessons, and new languages every single day. I am fylly preapred to be hired as a both of Front-End and Back-End developer on remote or corporate. Check out my portfolio to build trust. You can find me on Fiverr and Freelancer, as well as contact me directly via social media and email.
+I am Mehedi Hasan Rafiz, from Dhaka, Bangladesh. I fell in love with programming and I have at least learnt something. I know Javascript, React.js and Node.js. I also know PHP, am familiar with React Native. My fields of interest are building new web technologies and products and also in areas related to deep learning and natural language processing. Whenever possible, I also apply my passion for developing products with Node.js and modern Javascript library and frameworks like React.js. Now I am seeking for a job where I can start my career and get opportunity to extend my skills and learn about new technologies.
 </span> <br /> <br />
 
 <h2>My Skills : </h2>
