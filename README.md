@@ -34,7 +34,7 @@ I am Mehedi Hasan Rafiz, from Dhaka, Bangladesh. I fell in love with programming
 🟡 👯 I’m looking to collaborate on Github <br />
 🟣 💬 Ask me about Web Development <br />
 🔵 📫 How to reach me: https://rafix.netlify.app <br />
-🔴 ⚡ Fun fact: fell in love with coding
+🔴 ⚡ Fun fact: I think, I am a robot when I do coding
 
 <br /><br />
 
