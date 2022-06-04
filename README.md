@@ -20,6 +20,7 @@ I am Mehedi Hasan Rafiz, from Dhaka, Bangladesh. I fell in love with programming
   <img src="https://i.pinimg.com/favicons/5a7125e442544ec198585b70a9d94cd26977c102cc5805e5f3347611.png?f92a133e48dfde6a69fd6c07d57de0de" alt="skillImg" width="50px" />&nbsp;&nbsp;
   <img src="https://icons-for-free.com/iconfiles/png/512/svg+developer+firebase+google+programming+icon-1320183319887802192.png" alt="skillImg" width="50px" />
  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJjcVtmAHl0-O306bDIr1I8NHiLi7-dmpTaDaXY7wDFixuzr8BVj7SOTU4yacpzhA6hq0&usqp=CAU" alt="skillImg" width="50px" /> 
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR36J2ckF9cT55QALsAsIPQXSQETnTQN_7Y9xVXwq19s--5Lm_xusEVXKUS1b0UAsl-zeM&usqp=CAU" alt="skillImg" width="50px" /> 
   <h2> Tools Know </h2>
    <img src="https://cdn-icons-png.flaticon.com/128/919/919847.png" alt="skillImg" width="50px" />&nbsp;&nbsp;
   <img src="https://cdn.iconscout.com/icon/free/png-256/netlify-3629537-3032320.png" alt="skillImg" width="50px" />&nbsp;&nbsp;
