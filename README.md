@@ -3,7 +3,11 @@
 <h3>🟢 Web Developer &nbsp;&nbsp;  🟢 Programmer &nbsp;&nbsp;  🟢 Self-Learner </h3>
 
 <span>
-I am Mehedi Hasan Rafiz, from Dhaka, Bangladesh. I fell in love with programming and I have at least learnt something. I know Javascript, React.js and Node.js. I also know PHP, am familiar with React Native. My fields of interest are building new web technologies and products and also in areas related to deep learning and natural language processing. Whenever possible, I also apply my passion for developing products with Node.js and modern Javascript library and frameworks like React.js. Now I am seeking a job where I can start my career and get the opportunity to expand my skills and learn about new technologies.
+I am a MERN stack developer with 3 years of software development experience. I have done 70+ projects with 100% client satisfaction.
+
+I am experienced in both of front-end and back-end of Web Development also experienced in Native App Development. I have working experience with MVC, OOP and version controlling with git/github. I have also designed user interface with React/Next JS and manage state with Redux/React Query. Also manage API request with GraphQL. I developed back-end in Node/Express JS where I use MVC model. For the complicated service I use Nest JS and GraphQL in OOP system.
+
+When working on a new project. I like to speak with my clients so that I can have a clear understanding of their needs and vision of the project. Thank you so much for time and consideration. I look forward to working with you soon.
 </span> <br /> <br />
 
 <h2>My Skills : </h2>
