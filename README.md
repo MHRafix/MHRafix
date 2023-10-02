@@ -1,23 +1,5 @@
-import { Box, Group, Space } from '@mantine/core';
-import React from 'react';
-import { HiDownload } from 'react-icons/hi';
-import { SiMongodb, SiNestjs, SiNextdotjs, SiTsnode } from 'react-icons/si';
-import Me from '../Images/me.jpg';
-import useAnimation from '../hooks/useAnimation';
-import useLinkHandle from '../hooks/useLinkHandle';
 
-const Home = () => {
-	// My Resume Link
-	const myResumeLink =
-		'https://drive.google.com/file/d/1_MctkN8qdhqK55MCXfVvSi2AQ_QzNJYv/view?usp=sharing';
-
-	// Import use link here
-	const { linkHandle } = useLinkHandle();
-	// Import AOS animation here
-	useAnimation();
-
-	return (
-		<Box
+		<div
 			className='flex_layout'
 			style={{
 				margin: 'auto',
@@ -26,7 +8,7 @@ const Home = () => {
 			}}
 		>
 			<div className='myImage' data-aos='fade-up'>
-				<img className='profilePic' src={Me} alt='MyProfileImage' />
+				<img className='profilePic' src={"https://rafix.netlify.app/assets/me-4143a754.jpg"} alt='MyProfileImage' />
 			</div>
 
 			<Space w={60} />
@@ -61,23 +43,4 @@ const Home = () => {
 					Download Resume <HiDownload size={20} className='icon fa' />
 				</button>
 			</div>
-		</Box>
-	);
-};
-
-export default Home;
-
-export const getStyle = (color) => {
-	return {
-		// border: `1px solid ${color}`,
-		borderRadius: '2px',
-		display: 'flex',
-		alignItems: 'center',
-		gap: 2,
-		fontSize: 13,
-		padding: '2px 5px',
-		boxShadow: `0px 0px 0px 1px ${color}`,
-	};
-};
-
-// #af222269 0px 0px 0px 1px
+		</div>
