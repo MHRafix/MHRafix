@@ -4,7 +4,7 @@
 ✅Full-Stack Developer &nbsp;&nbsp; ✅Mobile App Developer &nbsp;&nbsp;  ✅Upwork Talent </h3>
 
 <span>
-👋 Hello there! I'm [Your Name], a dedicated web developer with a passion for crafting exceptional digital experiences. With a keen eye for detail and a penchant for clean, efficient code, I'm on a mission to bring your web projects to life in style.
+👋 Hello there! I'm Mehedi Hasan Rafiz, a dedicated web developer with a passion for crafting exceptional digital experiences. With a keen eye for detail and a penchant for clean, efficient code, I'm on a mission to bring your web projects to life in style.
 <br /><br />
 🌐 Front-End Wizard: Armed with React.js and Next.js, I create stunning, lightning-fast web applications that not only look fantastic but also provide an outstanding user experience. From responsive designs to interactive features, I ensure your users keep coming back for more.
 <br /><br />
