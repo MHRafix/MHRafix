@@ -1,5 +1,5 @@
 <img src="https://c4.wallpaperflare.com/wallpaper/435/542/549/javascript-google-node-js-html-microsoft-visual-studio-hd-wallpaper-preview.jpg" alt="coverPhoto" width="100%" height="300" />
-<h1>👋Hi, I am Mehedi Hasan Rafiz 👋</h1>
+<h1>👋Hi, I am Mehedi Hasan Rafiz</h1>
 <h3>✅Web Developer &nbsp;&nbsp;  ✅Front-End Developer
   ✅Mobile App Developer &nbsp;&nbsp;  ✅Upwork Talent </h3>
 
