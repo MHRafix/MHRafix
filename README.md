@@ -23,6 +23,11 @@ a passionate and results-driven Software Developer with 2 years of experience sp
 🔵 📫 How to reach me: [+880 1600221211] <br />
 🔴 ⚡ Fun fact: fell in love with coding
 <br /><br />
+
+
+![Rafiz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MHRafix&show_icons=true&theme=dark)
+
+<br /><br />
 <h2> ☎ Contact With Me : </h2>
 <h3> 📶 [+880 1600221211] <br /><br />
  📧 rafiz.mehedi@gmail.com <br />
