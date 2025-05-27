@@ -33,7 +33,8 @@ a passionate and results-driven Software Developer with 2 years of experience sp
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MHRafix&layout=compact&theme=dark)
 
 </div>
-[![GitHub Streak](https://streak-stats.demolab.com?user=MHRafix&theme=dark&hide_border=false)](https://git.io/streak-stats)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=MHRafix&theme=dark&hide_border=false)](https://git.io/streak-stats)
 
 
 
