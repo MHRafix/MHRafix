@@ -27,6 +27,9 @@ a passionate and results-driven Software Developer with 2 years of experience sp
 
 ![Rafiz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MHRafix&show_icons=true&theme=dark)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MHRafix&layout=compact&theme=dark)
+
+
 <br /><br />
 <h2> ☎ Contact With Me : </h2>
 <h3> 📶 [+880 1600221211] <br /><br />
