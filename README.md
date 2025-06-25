@@ -26,7 +26,7 @@ a passionate and results-driven Software Developer with 2 years of experience sp
 
 
 
-![Rafiz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MHRafix&show_icons=true&theme=dark) ![GitHub Streak](https://streak-stats.demolab.com?user=MHRafix&theme=dark&hide_border=false)
+ ![GitHub Streak](https://streak-stats.demolab.com?user=MHRafix&theme=dark&hide_border=false)
  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MHRafix&layout=compact&theme=dark)
 
 
